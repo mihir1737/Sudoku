@@ -1,27 +1,17 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* This is sudoku game developed with python language using pygame library.
+* Version 1.0
 
 ### How do I get set up? ###
-
-* Summary of set up
-* Configuration
 * Dependencies
-* Database configuration
+* install pygame and pymenu
+* pip install pygame
+* pip install py_menu
 * How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
+* run main.py file using python.
 
 ### Who do I talk to? ###
 
